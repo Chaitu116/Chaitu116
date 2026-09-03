@@ -1,48 +1,50 @@
-<h1 align="center">Hi 👋 My name is Chaitanya Jammani</h1>
-<h3 align="center">Web Developer</h3>
+## Chaitanya Jammani
 
-<p align="center">
-  <a href="https://github.com/Chaitu116?tab=followers">
-    <img src="https://img.shields.io/github/followers/Chaitu116?label=FOLLOWERS&style=for-the-badge&logo=github&color=black&labelColor=black" alt="followers" />
-  </a>
+Front-end developer. I build marketing and product sites in **Next.js** — lately a university-partnerships platform, where I care a lot about how fast a page feels on a bad connection.
+
+<p>
+  <img src="https://img.shields.io/github/followers/Chaitu116?style=flat-square&logo=github&label=followers&labelColor=1c1c1c&color=2f2f2f" alt="followers" />
+  <img src="https://komarev.com/ghpvc/?username=Chaitu116&style=flat-square&label=profile+views&color=2f2f2f" alt="views" />
 </p>
 
 ---
 
-## Skills
+### What I work with
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,tailwind,redux,nodejs,express,mongodb,git,docker,vscode&perline=14" />
-  </a>
+|  |  |
+| :-- | :-- |
+| **Core** | TypeScript · React · Next.js (App Router) |
+| **Styling** | Tailwind CSS · shadcn/ui · Radix UI · Framer Motion |
+| **Forms & validation** | React Hook Form · Zod |
+| **Tooling** | Git · ESLint · Vercel · VS Code |
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,git,vercel,vscode&theme=dark" alt="stack" />
 </p>
 
-## Socials
+---
 
-<p align="left">
-  <a href="https://github.com/Chaitu116"><img src="https://skillicons.dev/icons?i=github" height="40" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
-  <a href="https://instagram.com/YOUR-INSTAGRAM"><img src="https://skillicons.dev/icons?i=instagram" height="40" /></a>
+### Currently building
+
+**Sense Academia** — a university-partnerships site: course catalogue, instructor profiles, placement data.
+
+Things I've been deliberate about on it:
+
+- Every image ships under **150 KB**, served as AVIF through `next/image` — on-disk size is not what the browser downloads, and it's worth measuring the difference
+- Data access through thin accessor modules in `lib/`, so pages never reach into raw JSON
+- `framer-motion` used sparingly — motion that orients you, not motion that performs
+
+---
+
+### Stats
+
+<p>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=Chaitu116&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=00000000" alt="stats" />
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitu116&layout=compact&theme=github_dark&hide_border=true&hide_title=true&bg_color=00000000&langs_count=6" alt="top languages" />
 </p>
 
-## Badges
+---
 
-### My GitHub Stats
+### Elsewhere
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chaitu116&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true" alt="stats" />
-</p>
-
-<p align="left">
-  <img src="https://streak-stats.demolab.com?user=Chaitu116&theme=dark&hide_border=true" alt="streak" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitu116&layout=compact&theme=dark&hide_border=true&langs_count=8" alt="top langs" />
-</p>
-
-### Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chaitu116&theme=darkhub&no-frame=true&column=7" alt="trophies" />
-</p>
+[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) · [Portfolio](https://YOUR-SITE) · open to front-end work
