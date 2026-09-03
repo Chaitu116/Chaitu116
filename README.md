@@ -11,12 +11,13 @@ Front-end developer at **SSIT** — [Sense Semiconductor & IT Solutions](https:/
 
 ### What I work with
 
-|  |  |
-| :-- | :-- |
-| **Core** | TypeScript · React · Next.js (App Router) |
-| **Styling** | Tailwind CSS · shadcn/ui · Radix UI · Framer Motion |
-| **Forms & validation** | React Hook Form · Zod |
-| **Tooling** | Git · ESLint · Vercel · VS Code |
+**Core** — TypeScript · React · Next.js (App Router)
+
+**Styling** — Tailwind CSS · shadcn/ui · Radix UI · Framer Motion
+
+**Forms & validation** — React Hook Form · Zod
+
+**Tooling** — Git · ESLint · Vercel · VS Code
 
 <p>
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,nodejs,git,vercel,vscode&theme=dark" alt="stack" />
