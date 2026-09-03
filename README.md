@@ -38,6 +38,12 @@ own Vercel -> swap the hostname below).
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitu116&layout=compact&theme=github_dark&hide_border=true&hide_title=true&bg_color=00000000&langs_count=6" alt="top languages" />
 </p>
 -->
+### Selected work
+
+**[Naukri.com homepage clone](https://github.com/Chaitu116/Naukri_Clone)** — React + Tailwind, component-driven, fully responsive · [live demo](https://chaitu116.github.io/Naukri_Clone/)
+
+---
+
 ### Elsewhere
 
 [LinkedIn](https://linkedin.com/in/jammani-chaitanya) · [SSIT](https://sensesemi.in) · open to front-end work
