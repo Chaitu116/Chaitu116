@@ -24,17 +24,11 @@ Front-end developer at **SSIT** — [Sense Semiconductor & IT Solutions](https:/
 
 ---
 
-### Currently building
-
-**Sense Academia** — a university-partnerships site: course catalogue, instructor profiles, placement data.
-
-Things I've been deliberate about on it:
-
-- Every image ships under **150 KB**, served as AVIF through `next/image` — on-disk size is not what the browser downloads, and it's worth measuring the difference
-- Data access through thin accessor modules in `lib/`, so pages never reach into raw JSON
-- `framer-motion` used sparingly — motion that orients you, not motion that performs
-
----
+<!--
+Stats cards disabled: github-readme-stats' public Vercel instance is returning
+503 DEPLOYMENT_PAUSED for all users. To restore, either uncomment when it is
+back up, or self-host (fork anuraghazra/github-readme-stats -> deploy to your
+own Vercel -> swap the hostname below).
 
 ### Stats
 
@@ -42,9 +36,7 @@ Things I've been deliberate about on it:
   <img height="150" src="https://github-readme-stats.vercel.app/api?username=Chaitu116&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&hide_title=true&bg_color=00000000" alt="stats" />
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chaitu116&layout=compact&theme=github_dark&hide_border=true&hide_title=true&bg_color=00000000&langs_count=6" alt="top languages" />
 </p>
-
----
-
+-->
 ### Elsewhere
 
 [LinkedIn](https://linkedin.com/in/jammani-chaitanya) · [SSIT](https://sensesemi.in) · open to front-end work
