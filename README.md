@@ -47,6 +47,4 @@ Things I've been deliberate about on it:
 
 ### Elsewhere
 
-<!-- TODO: add LinkedIn -> [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) -->
-
-[SSIT](https://sensesemi.in) · open to front-end work
+[LinkedIn](https://linkedin.com/in/jammani-chaitanya) · [SSIT](https://sensesemi.in) · open to front-end work
