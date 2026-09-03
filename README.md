@@ -1,6 +1,6 @@
 ## Chaitanya Jammani
 
-Front-end developer. I build marketing and product sites in **Next.js** — lately a university-partnerships platform, where I care a lot about how fast a page feels on a bad connection.
+Front-end developer at **SSIT** — [Sense Semiconductor & IT Solutions](https://sensesemi.in). I build marketing and product sites in **Next.js**, lately a university-partnerships platform, where I care a lot about how fast a page feels on a bad connection.
 
 <p>
   <img src="https://img.shields.io/github/followers/Chaitu116?style=flat-square&logo=github&label=followers&labelColor=1c1c1c&color=2f2f2f" alt="followers" />
@@ -47,4 +47,6 @@ Things I've been deliberate about on it:
 
 ### Elsewhere
 
-[LinkedIn](https://linkedin.com/in/YOUR-LINKEDIN) · [Portfolio](https://YOUR-SITE) · open to front-end work
+<!-- TODO: add LinkedIn -> [LinkedIn](https://linkedin.com/in/YOUR-HANDLE) -->
+
+[SSIT](https://sensesemi.in) · open to front-end work
